@@ -1,0 +1,14 @@
+.tabela {
+    width: 60%;
+    margin-left: 11%;
+    padding-top: 17px;  
+}
+
+
+  td, th {
+    padding: .7em;
+    margin: 0;
+    /*border: 1px solid #ccc;*/
+    text-align: center;
+  }
+  
